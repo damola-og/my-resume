@@ -1,0 +1,66 @@
+    .cv {
+        background-color: rgb(206, 206, 203);
+        color: rgb(33, 33, 124);
+        font-size: 1em;
+        margin: 0px;
+        padding: 0;
+        font-family: Arial;
+    }
+    
+    .main {
+        background-color: rgb(106, 189, 238);
+        font-style: italic;
+        border-bottom: 3px solid yellow;
+        padding-bottom: 70px;
+    }
+    
+    .name {
+        font-size: 3em;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .skills {
+        padding-top: 0;
+        margin-left: 50px;
+    }
+    
+    .edu {
+        padding-top: 0;
+        margin-left: 50px;
+    }
+    
+    .lang {
+        padding-top: 0;
+        margin-left: 50px;
+    }
+    
+    .details {
+        padding-top: 0;
+        margin-left: 50px;
+    }
+    
+    .ref {
+        padding-top: 0;
+        margin-left: 50px;
+        padding-bottom: 50px;
+    }
+    
+    .experience {
+        padding-top: 0;
+        margin-left: 50px;
+    }
+    
+    .round {
+        width: 200px;
+        height: 200px;
+        margin: auto;
+        border-radius: 50%;
+        float: left;
+        margin-right: 30px;
+        margin-left: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: solid 3px;
+        padding: 2px;
+    }
